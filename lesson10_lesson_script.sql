@@ -1,0 +1,4 @@
+USE vk;
+
+SHOW TABLES;
+
